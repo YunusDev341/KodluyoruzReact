@@ -1,2 +1,2 @@
 # KodluyoruzReact
-Kodluyoruz React
+Kodluyoruz React ödevleri
